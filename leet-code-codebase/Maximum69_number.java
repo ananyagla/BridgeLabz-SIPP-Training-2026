@@ -1,5 +1,5 @@
-public class Maximum69Number {
-    public int maximum69_number(int num) {
+public class Maximum69_number {
+    public int maximum_number(int num) {
         int temp = num;
         int pos = -1;
         int place = 1;
